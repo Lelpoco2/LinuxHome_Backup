@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Questo script bash automatizza il backup di una cartella specifica (`/home/alessiodivizia/custom_scripts`) in un archivio compresso `.tar.gz` all'interno della directory di destinazione (`/opt/backup`). Il backup viene eseguito solo se la data odierna rientra in un intervallo di date predefinito.
+Questo script bash automatizza il backup di una cartella specifica in un archivio compresso `.tar.gz` all'interno della directory di destinazione. Il backup viene eseguito solo se la data odierna rientra in un intervallo di date predefinito (1 settimana).
 
 ## Funzionamento
 
