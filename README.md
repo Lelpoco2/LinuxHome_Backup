@@ -56,3 +56,5 @@ Esempio: `0 0 * * 1` eseguirà lo script alle 00:00 ogni lunedì.
 
 4. Salva il file crontab e chiudi l'editor.
 
+#### [Link per settare il crontab in modo intuitivo](https://crontab.cronhub.io/)
+
